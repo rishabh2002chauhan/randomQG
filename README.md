@@ -1,2 +1,2 @@
 # randomQG.io
-## Random Quote generator made as a project
+ Random Quote generator made as a project
